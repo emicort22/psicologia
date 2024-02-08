@@ -17,8 +17,8 @@ function App() {
       
         Consultas | turnos
 
-<a  href="https://wa.me/543512130222">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/240px-WhatsApp.svg.png" width="50" height="50"/></a>
+<a className='button' href="https://wa.me/543512130222">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/240px-WhatsApp.svg.png" width="60" height="60"/></a>
 
         <div className='sitio'>
           

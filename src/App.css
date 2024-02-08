@@ -37,7 +37,9 @@
 gap: 2rem;
  
 }
-
+.button {
+ box-shadow: #61dafb;
+}
 .App-link {
   color: #61dafb;
 }
