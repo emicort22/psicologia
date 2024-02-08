@@ -38,14 +38,15 @@ gap: 2rem;
  
 }
 .button {
- 
- transition: all 300ms ease 0ms;
-	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: box-shadow .3s;
+  border-radius:13px;
+  border: 1px  #ccc;
+  background: #ffffff19;
 	z-index: 99;
 }
 .button :hover {
-	background-color: gray; /* Color de fondo al pasar el cursor */
-	box-shadow: 0px 15px 40px rgba(8, 0, 0, 0.3) ;
+	
+	box-shadow: 4svb ;
 	transform: translateY(-7px);
   box-shadow: slategray;
 }
